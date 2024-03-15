@@ -12,9 +12,9 @@ title                    : "Chenjie Ye"
 title_separator          : "-"
 name                     : &name "Chenjie Ye"
 description              : &description "MPhil student of Computer Science"
-url                      : https://rex-saron.github.io/homie # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rex-saron.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "134ARG/134arg.github.io"
+repository               : "Rex-Saron/rex-saron.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
