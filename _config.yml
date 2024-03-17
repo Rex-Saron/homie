@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chenjie Ye"
 title_separator          : "-"
 name                     : &name "Chenjie Ye"
-description              : &description "MPhil student of Computer Science"
+description              : &description "MEng student of Bioengineering"
 url                      : https://rex-saron.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Rex-Saron/rex-saron.github.io"
@@ -22,27 +22,27 @@ repository               : "Rex-Saron/rex-saron.github.io"
 author:
   # Biographic information
   avatar           : "avatar-shrink.jpg"
-  name             : "Ruiyu Zhou"
+  name             : "Chenjie Ye"
   pronouns         : # example: "she/her"  
-  bio              : "MPhil student of Computer Science"
-  location         : "Shen Zhen, China"
-  employer         : "CUHKSZ"
-  uri              : "https://134arg.github.io"# URL
-  email            : "ruiyuzhou@link.cuhk.edu.cn" 
+  bio              : "MEng student of Bioengineering"
+  location         : "Berkeley, CA"
+  employer         : "UC Berkeley"
+  uri              : "https://Rex-Saron.github.io"
+  email            : "jonathan_yc@berkeley.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=qqyXwgQAAAAJ&hl=zh-CN&oi=sra"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0003-2700-9646"
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # URL
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "134arg"
+  github           : "rex-saron"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : 'Chenjie (Jonathan) Ye'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
